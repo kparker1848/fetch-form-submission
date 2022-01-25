@@ -1,0 +1,21 @@
+.user-bg {
+	background: url("assets/images/user-bg.png") !important; 
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+    min-width: 100% !important;
+	min-height: 100% !important;
+}
+
+.rosy-bg {
+    background-color: rosybrown !important;
+    opacity: .8 !important;
+}
+
+.display-font {
+    font-family: 'Raleway', sans-serif !important;
+}
+
+.form-font {
+    font-family: 'Montserrat', sans-serif !important;
+}
